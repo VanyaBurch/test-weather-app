@@ -9,3 +9,4 @@ const weatherInfo = (state = {
 }
 
 export default weatherInfo;
+
