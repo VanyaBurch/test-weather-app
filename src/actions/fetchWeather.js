@@ -1,4 +1,4 @@
-const API_KEY = 'ad8ea940cb2afc1969188c072a7c252a';
+const API_KEY = 'your api key';
 
 export function fetchWeather(city) {
 
